@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.container{
+    background-color: rgb(190, 123, 0);
+    border-radius: 9px;
+    border: 2px solid rgb(255, 246, 223);
+}
+
+.textBox{
+    margin-top: 1%;
+    margin-bottom: 2%;
+    color: wheat;
+    border-radius: 20px;
+    
+}
+
+.textBox h1{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: wheat;
+}
+
+.textBox p{
+    text-align: center;
+    font-size: 20px;
+}
+
+#carrossel{
+    max-width: 90%;
+    margin-left: 5%;
+    margin-bottom: 6%;
+    box-shadow: 0px 0px 4px 4px white;
+}
+
+img{
+    max-width: 100%;
+}
+
+.sup{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+}
+
+.inf{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 6%;
+}

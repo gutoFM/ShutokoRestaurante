@@ -1,0 +1,17 @@
+.footBody{
+    background-color: rgb(29, 22, 0);
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.footLinks a{
+    color: rgb(228, 167, 0);
+    padding: 9px;
+}
+
+.footBody h3{
+    color: rgb(112, 112, 112);
+}
